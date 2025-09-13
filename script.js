@@ -138,21 +138,27 @@ const experiences = [
   { 
     companyName: "Barclays UK", 
     companyRole: "Technology Developer Intern", 
-    timePeriod: "Jun 2024 – Aug 2024", 
+    timePeriod: "Jun 2024 - Aug 2024", 
     location: "Northampton, United Kingdom" 
   },
   { 
     companyName: "Tricket", 
     companyRole: "Backend Developer Intern", 
-    timePeriod: "Jan 2024 – Mar 2024", 
+    timePeriod: "Jan 2024 - Mar 2024", 
     location: "Remote" 
   },
   
   { 
     companyName: "AWS AI & ML Scholarship", 
     companyRole: "Scholar - Apprenticeship", 
-    timePeriod: "Jul 2023 – Nov 2023", 
+    timePeriod: "Jul 2023 - Nov 2023", 
     location: "Remote" 
+  },
+   {
+    companyName: "NIT Durgapur", 
+    companyRole: "Research Intern - Under Prof. TK Bera", 
+    timePeriod: "Jul 2023 - Jan 2024", 
+    location: "Durgapur, India" 
   },
   { 
     companyName: "Centre for Cognitive Activities", 
